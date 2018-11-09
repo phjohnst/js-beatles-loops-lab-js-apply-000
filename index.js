@@ -29,4 +29,5 @@ function iLoveTheBeatles(howMuch) {
     i++;
   }
   while (i < howMuch);
+  return screams
 }
