@@ -8,6 +8,5 @@ function theBeatlesPlay(musicians, instruments) {
     var fact = musicians[musician] + " plays " + instruments[musician];
     facts.push(fact);
   } 
-  
   return facts;
 }
