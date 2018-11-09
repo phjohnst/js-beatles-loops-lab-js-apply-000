@@ -5,6 +5,8 @@ var facts = [];
 function theBeatlesPlay(musicians, instruments) {
   facts = [];
   for (var musician in musicians) {
-    counter = counter + 1;
+    for (var instrument in instruments){
+      return ${musician} + " plays "
+    }
   }
 }
