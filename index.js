@@ -1,11 +1,10 @@
 // add solution here
-var musicians = [];
-    instruments = [];
-    facts = [];
+var facts = [];
     counter = 0;
 
 function theBeatlesPlay(musicians, instruments) {
-  for (var i in musicians) {
+  facts = [];
+  for (var musician in musicians) {
     counter = counter + 1;
   }
 }
