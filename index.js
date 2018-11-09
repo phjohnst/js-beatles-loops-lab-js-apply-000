@@ -26,7 +26,7 @@ function iLoveTheBeatles(howMuch) {
   var i = 0;
   do {
     screams.push("I love the Beatles!");
-    i++
+    i++;
   }
   while (i < howMuch);
 }
