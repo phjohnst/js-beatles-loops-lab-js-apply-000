@@ -25,11 +25,11 @@ function iLoveTheBeatles(howMuch) {
   var screams = [];
   var i = 0;
   var limit = 15;
-  var howMany = ab
+  var howMany = limit - howMuch
   do {
     screams.push("I love the Beatles!");
     i++;
   }
-  while (i < howMuch);
+  while (i < howMany);
   return screams;
 }
