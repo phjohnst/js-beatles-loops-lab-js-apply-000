@@ -4,4 +4,6 @@ var facts = [];
 
 function theBeatlesPlay(musicians, instruments) {
   facts = [];
-  for (var i=0 )
+  for (var i=0, i < musicians.length, i++) {
+    for 
+  }
