@@ -24,6 +24,8 @@ function johnLennonFacts(lennonFacts){
 function iLoveTheBeatles(howMuch) {
   var screams = [];
   var i = 0;
+  var limit = 15;
+  var howMany = ab
   do {
     screams.push("I love the Beatles!");
     i++;
