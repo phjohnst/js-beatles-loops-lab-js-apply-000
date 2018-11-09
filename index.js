@@ -7,7 +7,7 @@ function theBeatlesPlay(musicians, instruments) {
   for (var musician in musicians) {
     for (var instrument in instruments) {
       var fact = "${musician}" + " plays " + "${instrument}" ; 
-      return 
+      fact.push  
     }
   }
 }
